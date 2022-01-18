@@ -7,7 +7,7 @@ Repositório utilizado na disciplina de Arquitetura de Front End
 I) Clone o repositório.
 
 ```console
-$ git https://github.com/ollyvergithub/PosGraduacaoReact.git
+$ git https://github.com/ollyvergithub/PosGraduacaoArquiteturaDeFrontEnd.git
 $ cd unidade-0[projeto_escolhido]
 ```
 
