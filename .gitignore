@@ -2,6 +2,7 @@
 
 /_material
 /.idea
+/unidade-02-exemplo-webpack/node_modules
 
 # dependencies
 /node_modules
@@ -121,11 +122,14 @@ fabric.properties
 # End of https://www.gitignore.io/api/webstorm
 yarn.lock
 
-.env
-
 .vscode/
 
 selenium-screenshot-*.png
 report.html
 log.html
 output.xml
+
+/unidade-02-micro-front-end-via-iframes/fragment-1/node_modules/
+/unidade-02-micro-front-end-via-iframes/fragment-2/node_modules/
+/unidade-02-exemplo-webpack/node_modules/
+/unidade-02-micro-front-end-via-iframes/satellite/node_modules/
