@@ -38,3 +38,12 @@ $ npm start
 * Entre em `http://localhost:8000` e veja a aplicação rodando.
 
 
+### Para rodar o projeto unidade-02-micro-front-end-via-funcoes
+
+* Entre na pasta `content` via linha de comando e rode o comando `npm install && npm start`.
+
+* Em seguida, faça o mesmo dentro das pastas `container`, `browse` e `restaurant-order`.
+
+* Entre em `http://localhost:3000` e veja a aplicação rodando.
+
+
